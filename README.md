@@ -1,4 +1,4 @@
-# Predict_lands_prices
+# Predict_studentsMarks
 
 Here's machine learning model to predict a student's final grade in a particular course. 
 
